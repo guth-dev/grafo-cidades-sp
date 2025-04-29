@@ -1,0 +1,27 @@
+# Compilação Java
+*.class
+*.jar
+*.war
+
+# Pastas de compilação
+/bin/
+/build/
+/out/
+/target/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Outros arquivos desnecessários
+*.swp
+*.swo
+*.bak
+*.iml
